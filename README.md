@@ -6,7 +6,7 @@
 ### Hi~ there😜😜
 
 
-- 👋 Hi, I’m seonghwankim😁
+- 👋 Hi, I’m seonghwan😁
 - 👀 I’m interested in soccer
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
