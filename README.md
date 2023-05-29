@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%20There&fontSize=70)
 
-![MuaKissGIF](https://github.com/seonghwan66/seonghwan66/assets/126736687/b54c3c20-5b5d-42b5-9b2a-0b600238bedd)
-
 - 👋 Hi, I’m seonghwan😁
 - 👀 I am very interested in football, and among them, I am a fan of Liverpool in the English Premier League. My favorite player is Alexander Arnold. It's not an exaggeration to say that his play as a right-wing back is of the highest standard worldwide.
 - 🌱 I am currently studying at Dong-A University, located in Busan, South Korea. I am majoring in Computer Science and currently prioritizing the study of the C++ language.
