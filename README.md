@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&header=footer&text=Hi%20There&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi%20There&fontSize=100)
 
 ### Hi~ there😜😜
 
@@ -22,3 +22,5 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonghwan66&layout=compact)](https://github.com/seonghwan66/github-readme-stats)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Hi%20There&fontSize=100)
