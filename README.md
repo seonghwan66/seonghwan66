@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=header&text=Hi%20There&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20There&fontSize=50)
 
 - 👋 Hi, I’m seonghwan😁
 - 👀 I am very interested in football, and among them, I am a fan of Liverpool in the English Premier League. My favorite player is Alexander Arnold. It's not an exaggeration to say that his play as a right-wing back is of the highest standard worldwide.
@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Seonghwan's GitHub stats](https://github-readme-stats.vercal.app/api?username=seonghwan66)](https://github.com/seonghwan66/github-readme-stats)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer&text=Thank%20you&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20you&fontSize=50)
