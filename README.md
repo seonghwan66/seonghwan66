@@ -6,7 +6,6 @@
 ### Hi~ there😜😜
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 - 👋 Hi, I’m seonghwan😁
 - 👀 I am very interested in football, and among them, I am a fan of Liverpool in the English Premier League. My favorite player is Alexander Arnold. It's not an exaggeration to say that his play as a right-wing back is of the highest standard worldwide.
