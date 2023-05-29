@@ -16,6 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://img.shields.io/badge/C++-239DFF?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercal.app/api?username=seonghwan66)](https://github.com/seonghwan66/github-readme-stats)
+[![Seonghwan's GitHub stats](https://github-readme-stats.vercal.app/api?username=seonghwan66)](https://github.com/seonghwan66/github-readme-stats)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thank%20you&fontSize=70)
