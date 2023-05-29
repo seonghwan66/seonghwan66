@@ -20,9 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonghwan66)](https://github.com/seonghwan66/github-readme-stats)
 
- <div align=center>
  ![MuahMinionsGIF](https://github.com/seonghwan66/seonghwan66/assets/126736687/9e0715e9-efc5-413c-8916-70a19eba5ff7)
-</div>
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20you&fontSize=50)
