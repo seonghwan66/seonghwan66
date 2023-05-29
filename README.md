@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
- <img src="https://img.shields.io/badge/Seonghwan-7A1FA2?style=flat-square&logo=Aiqfome&logoColor=white"/> <img src="https://img.shields.io/badge/DongA Univ.-FF9900?style=flat-square&logo=American Express&logoColor=white"/> 
+                                           <img src="https://img.shields.io/badge/Seonghwan-7A1FA2?style=flat-square&logo=Aiqfome&logoColor=white"/> <img src="https://img.shields.io/badge/DongA Univ.-FF9900?style=flat-square&logo=American Express&logoColor=white"/> 
  
  <img src="https://img.shields.io/badge/Liverpool-EC1C24?style=flat-square&logo=Awsome Lists&logoColor=white"/>  <img src="https://img.shields.io/badge/Trent Alexander Arnold-EC1C24?style=flat-square&logo=Awsome Lists&logoColor=white"/>
 
