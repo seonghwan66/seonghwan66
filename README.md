@@ -7,7 +7,7 @@
 
 
 - 👋 Hi, I’m seonghwan😁
-- 👀 I’m interested in soccer
+- 👀 I am very interested in football, and among them, I am a fan of Liverpool in the English Premier League. My favorite player is Alexander Arnold. It's not an exaggeration to say that his play as a right-wing back is of the highest standard worldwide.
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
