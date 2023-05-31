@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.liverpoolfc.com/"><img src="https://img.shields.io/badge/Liverpool-EC1C24?style=flat-square&logo=Awsome Lists&logoColor=white"/></a>  <a href="https://www.instagram.com/trentarnold66/"><img src="https://img.shields.io/badge/Trent Alexander Arnold-EC1C24?style=flat-square&logo=Awsome Lists&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/C++-239DFF?style=flat-square&logo=C++&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> </div>
-<div align=center>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seonghwan66)](https://github.com/seonghwan66/github-readme-stats)
-</div>
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20you&fontSize=50)
