@@ -4,7 +4,6 @@
 - 👀 I am very interested in football, and among them, I am a fan of Liverpool in the English Premier League. My favorite player is Alexander Arnold. It's not an exaggeration to say that his play as a right-wing back is of the highest standard worldwide.
 - 🌱 I am currently studying at Dong-A University, located in Busan, South Korea. I am majoring in Computer Science and currently prioritizing the study of the C++ language.
 - 💞️ I enjoy exercising and have a passion for creating and indulging in cocktails as a hobby. I enjoy all types of physical activities, but football is my favorite. I haven't been into cocktails for very long, so my knowledge is limited. However, I plan to study consistently and eventually acquire a bartending qualification called Certified Bartender.
-- 📫 How to reach me ...
 
 <!---
 seonghwan66/seonghwan66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
