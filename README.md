@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hi%20There&fontSize=50)
 
-- 👋 Hi, I’m seonghwan😁
+- 👋 Hi, I’m seonghwan, 22 years, I served in the Korean Marine Corps for 18 months.😁
+I was discharged from the military in September 2022 and am currently a computer engineering student at Dong-A University.😁
 - 👀 I am very interested in football, and among them, I am a fan of Liverpool in the English Premier League. My favorite player is Alexander Arnold. It's not an exaggeration to say that his play as a right-wing back is of the highest standard worldwide. (●'◡'●)
 - 🌱 I am currently studying at Dong-A University, located in Busan, South Korea. I am majoring in Computer Science and currently prioritizing the study of the C++ language. OwO
 - 💞️ I enjoy exercising and have a passion for creating and indulging in cocktails as a hobby. I enjoy all types of physical activities, but football is my favorite. I haven't been into cocktails for very long, so my knowledge is limited. However, I plan to study consistently and eventually acquire a bartending qualification called Certified Bartender. ^o^
