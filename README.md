@@ -6,6 +6,7 @@ I was discharged from the military in September 2022 and am currently a computer
 - 🌱 I am currently studying at Dong-A University, located in Busan, South Korea. I am majoring in Computer Science and currently prioritizing the study of the C++ language. OwO
 - 💞️ I enjoy exercising and have a passion for creating and indulging in cocktails as a hobby. I enjoy all types of physical activities, but football is my favorite. I haven't been into cocktails for very long, so my knowledge is limited. However, I plan to study consistently and eventually acquire a bartending qualification called Certified Bartender. ^o^
 - 🗿Vacation plan..... comming soon~~~~~~~~~~~>~<~~
+- As of June 20, the first semester of my second year of college life has ended.
 
 <!---
 seonghwan66/seonghwan66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
